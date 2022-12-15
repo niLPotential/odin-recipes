@@ -1,0 +1,43 @@
+h1 {
+    color: #88FFFF;
+    background-color: rebeccapurple;
+}
+
+a {
+    color: #FFFF88;
+    background-color: darkgreen;
+}
+
+h2 {
+    color: #FF88FF;
+    background-color: cadetblue;
+}
+
+img {
+    width: 200px;
+    height: auto;
+}
+
+.text {
+    font-family: Arial, Helvetica, sans-serif;
+    color: #55AAFF;
+    background-color: blanchedalmond;
+    font-size: 20px;
+    font-weight: 600;
+}
+
+#ingredients-list {
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    color: #AA55FF;
+    background-color: aliceblue;
+    font-size: 25px;
+    font-weight: 400;
+}
+
+#steps-list {
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    color: #FFAA55;
+    background-color: #55FFAA;
+    font-size: 17px;
+    font-weight: 100;
+}
